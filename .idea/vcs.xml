@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/4.3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BasicApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DroidCafeTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloCompat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloToast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImplicitIntents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImplicitIntentsReceiver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ScrollingText" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleCalc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TwoActivities" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TwoTest" vcs="Git" />
+  </component>
+</project>
